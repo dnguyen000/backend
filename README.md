@@ -1,3 +1,6 @@
+## Running project
+To run this project, open terminal and run `./gradlew run`
+
 ## Micronaut 4.2.1 Documentation
 
 - [User Guide](https://docs.micronaut.io/4.2.1/guide/index.html)
